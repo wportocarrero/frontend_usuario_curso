@@ -1,0 +1,7 @@
+{
+    "/Precios/ProcesoL/Consulta/*":{
+        "target": "http://observatorio.digemid.minsa.gob.pe",
+        "secure": false,
+        "changeOrigin": true
+    }
+}
